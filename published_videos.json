@@ -91,5 +91,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "Why-Zero-Point-One-Plus-Zero-Point-Two-Fails-In-Code.mp4",
+    "published_at": "2026-09-23T20:52:46.990584",
+    "metadata": {
+      "title": "0.1 + 0.2 Isn\u2019t 0.3 in Code\u2014Here\u2019s Why (and How to Fix It) #Shorts",
+      "description": "Ever added 0.1 + 0.2 and got 0.30000000000000004? That\u2019s the classic floating-point rounding problem\u2014small enough to seem harmless, but dangerous in real systems like billing, money, and comparisons. Computers store decimals in binary, so many \u201csimple\u201d numbers can\u2019t be represented exactly, causing tiny errors that accumulate. In this short, we\u2019ll show why it happens and the practical ways to avoid it (like rounding or using integers). Follow @kreggscode and comment: what bug have floating-point errors caused for you?",
+      "tags": [
+        "floatingpoint",
+        "binary",
+        "decimalprecision",
+        "roundingerror",
+        "numericalanalysis",
+        "softwarebugs",
+        "debugging",
+        "programmingfundamentals",
+        "computerarchitecture",
+        "python",
+        "javascript",
+        "csharp",
+        "integermath",
+        "precision",
+        "shorts"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "1551694056762214",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1676348404052504",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18121215635311191"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "62VVZWhcXPs"
+        }
+      }
+    }
   }
 ]
