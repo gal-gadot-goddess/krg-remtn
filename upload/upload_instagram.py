@@ -44,7 +44,7 @@ def upload_to_instagram(video_path, caption=""):
             'upload_type': 'resumable',
             'caption': caption[:2200] if caption else '',
             'access_token': access_token,
-            'share_to_feed': True
+            'share_to_feed': False
         }
 
         c_res = requests.post(f"{api_base}/{user_id}/media", params=c_params, timeout=30)
