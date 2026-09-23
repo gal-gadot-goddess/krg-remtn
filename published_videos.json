@@ -45,5 +45,51 @@
         }
       }
     }
+  },
+  {
+    "video_name": "Why-Python-Has-A-Global-Interpreter-Lock.mp4",
+    "published_at": "2026-09-23T10:28:27.251891",
+    "metadata": {
+      "title": "Python\u2019s GIL Explained: Why One Core Can\u2019t Run Your Code Faster #Shorts",
+      "description": "Ever wondered why Python threads don\u2019t always speed up your program? The Global Interpreter Lock (GIL) is a runtime mechanism that ensures only one thread executes Python bytecode at a time. That design makes Python simpler and safer, but it can limit CPU-bound concurrency\u2014especially for multi-threaded workloads. In this video, we break down what the GIL is, when it matters, and how to work around it with multiprocessing or native extensions. Follow @kreggscode and drop your questions in the comments!",
+      "tags": [
+        "python",
+        "global interpreter lock",
+        "gil",
+        "threading",
+        "concurrency",
+        "parallelism",
+        "computer science",
+        "runtime",
+        "performance",
+        "software engineering",
+        "multiprocessing",
+        "bytecode",
+        "cpu bound",
+        "software architecture"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "1642854174149056",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1789824618887855",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18115208465522510"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "7GVhsPn0w_Q"
+        }
+      }
+    }
   }
 ]
