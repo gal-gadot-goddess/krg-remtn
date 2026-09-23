@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "video_name": "Why-Git-Never-Stores-Diffs-How-Git-Works.mp4",
+    "published_at": "2026-09-23T05:18:17.658042",
+    "metadata": {
+      "title": "Wait\u2014Git Never Stores Diffs?! Here\u2019s What It Stores Instead \ud83e\udd2f #Shorts",
+      "description": "Ever wondered why Git doesn\u2019t save \u201cdiffs\u201d like most version tools? The hook: Git stores content as snapshots of files, then uses hashing + compression to avoid duplicates\u2014so history stays fast and storage stays efficient. Under the hood, each commit points to a tree of file states, and blobs are shared across versions via their hashes. Understanding this snapshot model helps you reason about merges, performance, and why Git is so reliable at scale. Follow @kreggscode and drop your question in the comments\u2014what part of Git do you want decoded next?",
+      "tags": [
+        "git",
+        "howgitworks",
+        "versioncontrol",
+        "sourcecontrol",
+        "softwareengineering",
+        "computer-science",
+        "csconcepts",
+        "programming",
+        "commit",
+        "snapshot",
+        "hashing",
+        "trees",
+        "blobs",
+        "merging",
+        "coding"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "3669060529928253",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1396777092666450",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "17945529210301906"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "OmDMXEuD8Xg"
+        }
+      }
+    }
+  }
+]
