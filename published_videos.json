@@ -185,5 +185,51 @@
         }
       }
     }
+  },
+  {
+    "video_name": "Why-Lithium-Batteries-Catch-Fire-When-Punctured.mp4",
+    "published_at": "2026-09-24T20:57:24.458016",
+    "metadata": {
+      "title": "Puncture a Li-ion Battery \u2192 instant fire? Here\u2019s the code-level chemistry #Shorts",
+      "description": "Ever wonder why a \u201csimple\u201d puncture can turn a lithium battery into a flame? Lithium-ion cells are like tightly coupled systems\u2014when the seal breaks, internal reactions trigger rapid heating and runaway chemistry. In software terms, it\u2019s the same idea as a cascading failure: one fault bypasses safety checks and the system spirals out of control. Understanding failure modes matters for designing safer products, embedded monitoring, and reliable power management code. Follow @kreggscode and drop your questions in the comments\u2014how would you detect this risk in software?",
+      "tags": [
+        "lithiumbattery",
+        "liion",
+        "batteryveiligheid",
+        "electrochemistry",
+        "safetyengineering",
+        "embeddedsystems",
+        "powermanagement",
+        "faulttolerance",
+        "failuremodes",
+        "systemdesign",
+        "runtimemonitoring",
+        "softwareengineering",
+        "hardwareinteractions",
+        "cascadingfailure"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "1381637510719926",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "2151006105497509",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18130269538706924"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "ex1KqqRizLI"
+        }
+      }
+    }
   }
 ]
