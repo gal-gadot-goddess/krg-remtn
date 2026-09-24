@@ -138,5 +138,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "Why-QR-Codes-Still-Scan-When-Torn-Or-Damaged.mp4",
+    "published_at": "2026-09-24T10:45:04.964720",
+    "metadata": {
+      "title": "Why QR Codes Still Work When Torn\u2014Error Correction Explained! #Shorts",
+      "description": "Ever wonder how a QR code can be ripped or smudged and still scan? The secret is error correction: QR codes include redundant data so the decoder can reconstruct missing or damaged bits. In computer science terms, it\u2019s like coding theory in action\u2014designing for noisy, real-world data streams. Understanding these ideas helps you build more reliable systems, from storage to network communication. Follow @kreggscode and comment: what kind of error correction should we break down next?",
+      "tags": [
+        "qr codes",
+        "error correction",
+        "coding theory",
+        "computer science",
+        "data recovery",
+        "software engineering",
+        "encoding",
+        "decoding",
+        "information theory",
+        "algorithms",
+        "distributed systems",
+        "data integrity",
+        "barcodes",
+        "machine vision",
+        "network reliability"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "2258346244708535",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1059504450482044",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "failed",
+          "error": "Video upload failed: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "xD7DGzlb_kA"
+        }
+      }
+    }
   }
 ]
