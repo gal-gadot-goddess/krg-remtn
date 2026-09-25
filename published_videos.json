@@ -231,5 +231,51 @@
         }
       }
     }
+  },
+  {
+    "video_name": "Why-Hash-Tables-Are-O1-Until-They-Collide.mp4",
+    "published_at": "2026-09-25T10:48:57.563154",
+    "metadata": {
+      "title": "Hash Tables Are \u201cO(1)\u201d\u2026 Until They Collide \ud83d\ude2c #Shorts",
+      "description": "Hash tables look like magic: average lookup/insert is O(1). But collisions happen when two keys map to the same bucket, and suddenly you\u2019re paying extra time. In this video, we\u2019ll break down what causes collisions and how chaining or probing turns \u201cconstant time\u201d into worst-case O(n). Want faster intuition for real-world performance? Follow @kreggscode and drop your question in the comments!",
+      "tags": [
+        "hashtable",
+        "hashing",
+        "datastructures",
+        "algorithms",
+        "timecomplexity",
+        "bigoh",
+        "collisionresolution",
+        "chaining",
+        "linearprobing",
+        "programming",
+        "computerscience",
+        "softwareengineering",
+        "codinginterview",
+        "performance"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "948431384427757",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1067168199551683",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "17966094666191133"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "qUkfTwO46QE"
+        }
+      }
+    }
   }
 ]
