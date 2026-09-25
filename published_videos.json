@@ -277,5 +277,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "Why-GPUs-Train-AI-100x-Faster-Than-CPUs.mp4",
+    "published_at": "2026-09-25T20:54:12.994515",
+    "metadata": {
+      "title": "GPUs vs CPUs: Why AI training can be 100x faster (here\u2019s the real reason) #Shorts",
+      "description": "Ever wondered why the same neural net trains in hours on a GPU but can take days on a CPU? It\u2019s because GPUs are built for massive parallelism\u2014thousands of cores that run the same math across many data points at once. AI training is mostly repeated matrix operations, and GPUs keep those operations flowing with specialized high-throughput hardware. Understanding this helps you choose the right compute stack and write faster, more efficient code. Follow @kreggscode and drop your question in the comments: would you rather optimize for CPU, GPU, or both?",
+      "tags": [
+        "gpus",
+        "cpus",
+        "ai",
+        "machinelearning",
+        "deeplearning",
+        "neuralnets",
+        "parallelcomputing",
+        "matrixmultiplication",
+        "cuda",
+        "tensorcores",
+        "softwareengineering",
+        "computerarchitecture",
+        "performance",
+        "programming",
+        "shorts"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "1103457972144109",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1817141789445162",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18114717220816852"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "BWw1_4Nfl5M"
+        }
+      }
+    }
   }
 ]
