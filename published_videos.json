@@ -324,5 +324,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "Why-Databases-Use-BTrees-Instead-Of-Binary-Trees.mp4",
+    "published_at": "2026-09-26T10:30:59.702883",
+    "metadata": {
+      "title": "Binary search trees are slow\u2014why real DBs use B-Trees instead #Shorts",
+      "description": "Ever wonder why databases don\u2019t just use a classic binary tree? The answer is about how computers actually store data: B-Trees are designed to minimize disk and cache misses by keeping many keys per node. That means fewer reads, faster range queries, and smoother performance as your dataset grows. If you\u2019re building apps or studying system design, this is a key data-structure insight. Follow @kreggscode and comment your question\u2014would you choose a B-Tree or a binary tree for your next project?",
+      "tags": [
+        "databases",
+        "btree",
+        "b-tree",
+        "binarytree",
+        "datastructures",
+        "systemsdesign",
+        "storage",
+        "indexing",
+        "queryperformance",
+        "computerarchitecture",
+        "softwareengineering",
+        "coding",
+        "csfundamentals",
+        "algorithm",
+        "shorts"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "1406177071624479",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1982313399117161",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18633914539017570"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "87pZGqMRPb0"
+        }
+      }
+    }
   }
 ]
