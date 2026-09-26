@@ -371,5 +371,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "How-Noise-Cancelling-Headphones-Create-Anti-Sound.mp4",
+    "published_at": "2026-09-26T20:23:38.142845",
+    "metadata": {
+      "title": "How ANC Turns Sound Waves Into Silence (The Anti-Sound Trick!) #Shorts",
+      "description": "Ever wondered how noise cancelling headphones can make a noisy world feel quiet instantly? In computer science terms, ANC is real-time signal processing: it samples incoming sound, estimates the noise, and generates an anti-wave that cancels it out. That same idea shows up in echo cancellation, audio compression, and even filters used in DSP code. Want more fast tech explains like this? Follow @kreggscode and drop your question in the comments\u2014what should we decode next?",
+      "tags": [
+        "kreggscode",
+        "noise cancelling",
+        "anc",
+        "signal processing",
+        "digital signal processing",
+        "dsp",
+        "audio engineering",
+        "computer science",
+        "real time systems",
+        "feedback control",
+        "fourier transform",
+        "adaptive filtering",
+        "coding",
+        "software engineering",
+        "shorts"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "27504768735866652",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1068641145980661",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18119784625990768"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "DJS3ab8j--E"
+        }
+      }
+    }
   }
 ]
