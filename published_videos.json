@@ -418,5 +418,51 @@
         }
       }
     }
+  },
+  {
+    "video_name": "How-Vector-Databases-Search-Billions-Of-Vectors.mp4",
+    "published_at": "2026-09-27T11:02:04.085057",
+    "metadata": {
+      "title": "How Vector DBs Search BILLIONS Fast\u2014The Secret Is in ANN #Shorts",
+      "description": "Want to find the closest matching content from billions of embeddings in milliseconds? Vector databases use approximate nearest neighbor (ANN) search plus indexing tricks to avoid brute-force comparisons. In this video, we\u2019ll break down how they transform high-dimensional vectors into fast lookups for semantic search, recommendations, and RAG. Understanding this is key to building scalable AI apps that don\u2019t melt your servers. Follow @kreggscode and drop your questions in the comments!",
+      "tags": [
+        "vector-database",
+        "ann",
+        "nearest-neighbor",
+        "embeddings",
+        "vector-search",
+        "semantic-search",
+        "rag",
+        "ai-search",
+        "machine-learning-infrastructure",
+        "database-indexing",
+        "approximate-algorithms",
+        "similarity-search",
+        "software-engineering",
+        "system-design"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "2042296196420594",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1400755278217308",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18371275840212126"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "TBef8rKxqGs"
+        }
+      }
+    }
   }
 ]
