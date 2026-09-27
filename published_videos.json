@@ -464,5 +464,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "Why-Computers-Use-Twos-Complement-For-Negative-Numbers.mp4",
+    "published_at": "2026-09-27T20:37:23.136835",
+    "metadata": {
+      "title": "Why negatives use two\u2019s complement (and why it\u2019s everywhere) #Shorts",
+      "description": "Ever wonder how computers represent negative numbers without a minus sign in hardware? Two\u2019s complement lets subtraction turn into simple addition, making CPU logic faster and simpler. It also preserves ordering and overflow behavior in a consistent way across systems. If you\u2019re learning how integers really work under the hood, this is the key trick. Follow @kreggscode and comment: what\u2019s confusing you most about signed integers?",
+      "tags": [
+        "twoscomplement",
+        "negative numbers",
+        "computer arithmetic",
+        "binary",
+        "signed integers",
+        "cpu",
+        "bitwise",
+        "math in computing",
+        "overflow",
+        "subtraction as addition",
+        "system design",
+        "programming basics",
+        "low level programming",
+        "computer science",
+        "coding"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "1419711066781481",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1629132735348849",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "17946957417340480"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "gVv6dcYTnbk"
+        }
+      }
+    }
   }
 ]
