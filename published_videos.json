@@ -511,5 +511,51 @@
         }
       }
     }
+  },
+  {
+    "video_name": "How-Public-Key-Cryptography-Works-RSA-And-Primes.mp4",
+    "published_at": "2026-09-28T12:21:22.404985",
+    "metadata": {
+      "title": "RSA Explained: Why Primes Make Your Secrets Uncrackable (for now) #Shorts",
+      "description": "Ever wondered how your messages get encrypted without sharing a secret key first? In RSA public-key cryptography, the magic comes from multiplying huge primes\u2014and the fact that reversing that step is brutally hard. We\u2019ll break down how the public key is built, how decryption works, and why math like modular exponentiation powers real secure software. Understanding RSA isn\u2019t just theory\u2014it helps you design safer systems and spot where crypto goes wrong. Follow @kreggscode and drop your questions in the comments\u2014how do primes make encryption possible?",
+      "tags": [
+        "rsa",
+        "publickeycryptography",
+        "asymmetricencryption",
+        "primes",
+        "modularexponentiation",
+        "cryptography",
+        "encryption",
+        "cybersecurity",
+        "numbertheory",
+        "computersecurity",
+        "securecoding",
+        "codingexplained",
+        "systemsengineering",
+        "mathforprogrammers"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "1040301855658728",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1815864776506158",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "17974108503070675"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "ivsrL1BHxAY"
+        }
+      }
+    }
   }
 ]
