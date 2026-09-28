@@ -557,5 +557,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "Why-AI-Cant-Count-Letters-In-Strawberry.mp4",
+    "published_at": "2026-09-28T22:46:38.321269",
+    "metadata": {
+      "title": "Why AI Can\u2019t Count Letters in \u201cStrawberry\u201d\u2026 and What It Reveals #Shorts",
+      "description": "Ever watched an AI miscount letters in \u201cstrawberry\u201d and wondered why? The answer is that many AI systems don\u2019t actually \u201ccount\u201d characters\u2014they predict text patterns based on probabilities, so string-level tasks can break when the pattern skill isn\u2019t the real skill. This matters in real software because you need exact algorithms for counting, parsing, and validation, not just \u201csmart-looking\u201d guesses. Want more quick CS lessons like this? Follow @kreggscode and drop your questions in the comments\u2014how would you make an AI count perfectly?",
+      "tags": [
+        "ai",
+        "llm",
+        "machinelearning",
+        "computer science",
+        "programming",
+        "string processing",
+        "text generation",
+        "prompting",
+        "algorithm",
+        "accuracy",
+        "data vs rules",
+        "parsing",
+        "software engineering",
+        "debugging",
+        "coding"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "4102539353375654",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1352115286754417",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18131482966706640"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "NDc3B7ssoeM"
+        }
+      }
+    }
   }
 ]
