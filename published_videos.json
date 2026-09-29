@@ -651,5 +651,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "Why-AI-Hallucinates-With-Confidence.mp4",
+    "published_at": "2026-09-29T21:40:40.655598",
+    "metadata": {
+      "title": "AI Says \u201cI\u2019m Sure\u201d\u2026 but It Might Be Wrong\u2014Here\u2019s Why #Shorts",
+      "description": "AI hallucinates with confidence because it\u2019s predicting the next token, not verifying facts in the real world. That confidence signal comes from patterns in training data, so plausible-sounding answers can still be fabricated. In programming, this matters for building reliable systems\u2014adding retrieval, citations, and verification logic. Want more practical CS breakdowns and animation-style coding insights? Follow @kreggscode and drop your question in the comments!",
+      "tags": [
+        "ai",
+        "llm",
+        "hallucinations",
+        "machinelearning",
+        "natural language processing",
+        "prompting",
+        "modelbias",
+        "softwareengineering",
+        "reliability",
+        "verification",
+        "retrievalaugmentedgeneration",
+        "rag",
+        "llmops",
+        "computer science",
+        "coding"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "1131228832910240",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1528476009298271",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18156170293447830"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "UvvdTnUbrcI"
+        }
+      }
+    }
   }
 ]
