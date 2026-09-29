@@ -604,5 +604,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "How-Transformers-Understand-Context-With-Attention.mp4",
+    "published_at": "2026-09-29T11:48:34.102910",
+    "metadata": {
+      "title": "How Attention Lets Transformers \u201cRead\u201d Context (Explained Fast) #Shorts",
+      "description": "Ever wonder how a model knows which words matter when it reads a sentence? Transformers use attention to weigh relationships between every token, so context isn\u2019t just \u201cremembered\u201d\u2014it\u2019s dynamically calculated. This is the core idea behind modern NLP, powering better translation, summarization, and code understanding. Mastering attention helps you design smarter architectures and debug why models focus on the wrong clues. Follow @kreggscode and drop your questions in the comments!",
+      "tags": [
+        "transformers",
+        "attentionmechanism",
+        "selfattention",
+        "nlp",
+        "machinelearning",
+        "deepLearning",
+        "tokenization",
+        "context",
+        "querykeyvalue",
+        "embeddings",
+        "neuralnetworks",
+        "softwareengineering",
+        "ai",
+        "coding",
+        "shorts"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "28161307390217813",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1746467529948671",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "failed",
+          "error": "Video upload failed: {\"debug_info\":{\"retriable\":false,\"type\":\"ProcessingFailedError\",\"message\":\"Request processing failed\"}}"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "jCIQNPAReXE"
+        }
+      }
+    }
   }
 ]
