@@ -745,5 +745,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "How-Touchscreens-Detect-Your-Finger-Using-Electricity.mp4",
+    "published_at": "2026-09-30T21:41:30.490936",
+    "metadata": {
+      "title": "Why Touchscreens Can \u201cFeel\u201d You\u2014Electric Signals Under the Glass #Shorts",
+      "description": "Ever wonder how a touchscreen knows where your finger is without cameras? It\u2019s detecting tiny changes in an electrical field using capacitive sensing\u2014then software turns that signal into coordinates in real time. This matters in computer science because it\u2019s a live example of signal processing, sensors, and hardware-software interaction working together. Coding-friendly concepts like filtering noisy data and mapping measurements to pixels power everything from touch UI to gesture recognition. Follow @kreggscode and drop your question in the comments: capacitive vs resistive\u2014what do you think is cooler?",
+      "tags": [
+        "touchscreen",
+        "capacitive",
+        "electricalsensing",
+        "howitworks",
+        "signalprocessing",
+        "embeddedsystems",
+        "sensors",
+        "hardwareandsoftware",
+        "computervisionalternatives",
+        "gesturerecognition",
+        "userinterfaces",
+        "haptics",
+        "electronics",
+        "coding",
+        "csbasics"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "950786240884292",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "2718490938568550",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18218841079349576"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "HrA20VUm_lg"
+        }
+      }
+    }
   }
 ]
