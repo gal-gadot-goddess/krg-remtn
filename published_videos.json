@@ -698,5 +698,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "How-Undersea-Cables-Power-The-Internet.mp4",
+    "published_at": "2026-09-30T11:35:07.070434",
+    "metadata": {
+      "title": "The Internet\u2019s Hidden Lifeline: How Undersea Cables Deliver Data! #Shorts",
+      "description": "Ever wondered how your message travels across oceans in milliseconds? Undersea fiber-optic cables turn light into data, using repeaters to boost signals so networks stay fast and reliable. Understanding their routing, redundancy, and signal constraints is key for network engineers and programmers building systems that don\u2019t break under real-world latency. Want more behind-the-scenes tech that powers the web? Follow @kreggscode and drop your questions in the comments!",
+      "tags": [
+        "undersea cables",
+        "fiber optic",
+        "internet infrastructure",
+        "networking",
+        "telecommunications",
+        "network architecture",
+        "data transmission",
+        "latency",
+        "signal repeaters",
+        "routing",
+        "redundancy",
+        "systems engineering",
+        "computer science",
+        "software engineering",
+        "shorts"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "1139686785078800",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1886431922738408",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18019852355945455"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "LW7JILeXfWk"
+        }
+      }
+    }
   }
 ]
