@@ -839,5 +839,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "How-LLM-Token-Sampling-Works-Temperature-And-Top-P.mp4",
+    "published_at": "2026-10-01T22:08:58.949649",
+    "metadata": {
+      "title": "Temperature vs Top P: The Secret Knobs Behind LLM Token Sampling #Shorts",
+      "description": "Ever wondered why the same prompt can produce wildly different answers from an LLM? Token sampling controls which next token the model picks, and temperature + top p (nucleus sampling) decide how random or focused that choice becomes. Get this right and you can boost creativity, reduce repetition, or force more consistent outputs\u2014crucial for building reliable AI features. Want more practical system-level explanations like this? Follow @kreggscode and drop your questions in the comments\u2014what setting do you use and why?",
+      "tags": [
+        "llm",
+        "tokenization",
+        "token sampling",
+        "temperature",
+        "top_p",
+        "nucleus sampling",
+        "machine learning",
+        "ai",
+        "prompting",
+        "text generation",
+        "decoding strategies",
+        "software engineering",
+        "computer science",
+        "generative ai",
+        "llm engineering"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "1447987110547514",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "2186696649396136",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18117639856956543"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "Ytu_yOoneak"
+        }
+      }
+    }
   }
 ]
