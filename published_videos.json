@@ -792,5 +792,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "How-Shazam-Identifies-Songs-In-Three-Seconds.mp4",
+    "published_at": "2026-10-01T12:03:42.710572",
+    "metadata": {
+      "title": "How Shazam Finds a Song in 3 Seconds (Fingerprinting Explained) #Shorts",
+      "description": "Ever wonder how an app recognizes a song almost instantly\u2014without listening to the whole track? Shazam turns audio into compact \u201cfingerprints\u201d by sampling key features, then matches those signatures against an indexed database. This is a real-world example of signal processing + fast search algorithms working together under strict time constraints. Want more CS breakthroughs like this in bite-sized animations? Follow @kreggscode and drop your question: what part\u2014fingerprints, hashing, or indexing\u2014do you want me to explain next?",
+      "tags": [
+        "shazam",
+        "songrecognition",
+        "audiofingerprinting",
+        "signalprocessing",
+        "computervision",
+        "hashing",
+        "indexing",
+        "algorithms",
+        "dataengineering",
+        "patternmatching",
+        "softwareengineering",
+        "systemsdesign",
+        "machinelearning",
+        "musictech",
+        "shorts"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "2229947657738597",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1548238713994164",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18114206519119934"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "AMtK7f2-P6Q"
+        }
+      }
+    }
   }
 ]
