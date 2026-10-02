@@ -933,5 +933,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "How-Facial-Recognition-Identifies-You-In-Milliseconds.mp4",
+    "published_at": "2026-10-02T21:36:29.290444",
+    "metadata": {
+      "title": "Face Recog in Milliseconds: The Secret Steps You Can Code #Shorts",
+      "description": "Ever wonder how your phone matches your face in just milliseconds? In computer vision, it\u2019s not magic\u2014it\u2019s fast pipelines: face detection, alignment, feature embeddings, and nearest-neighbor matching in a learned vector space. This matters because the same ideas power identity search, secure access, and real-time augmented experiences. If you\u2019re building apps, understanding these steps helps you choose the right models, optimize latency, and design reliable systems. Follow @kreggscode and drop your question in the comments: how would you speed up face matching?",
+      "tags": [
+        "facialrecognition",
+        "computervision",
+        "machinelearning",
+        "deepfake",
+        "embeddings",
+        "nearestneighbor",
+        "imageprocessing",
+        "opencv",
+        "python",
+        "latency",
+        "computerarchitecture",
+        "softwareengineering",
+        "aiengineering",
+        "authentication",
+        "shorts"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "1575743170384448",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1084687167767314",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18132504982588922"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "7nXGHwFK5HY"
+        }
+      }
+    }
   }
 ]
