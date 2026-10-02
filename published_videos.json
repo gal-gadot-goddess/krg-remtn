@@ -886,5 +886,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "How-GPS-Actually-Knows-Where-You-Are.mp4",
+    "published_at": "2026-10-02T11:35:01.517720",
+    "metadata": {
+      "title": "GPS doesn\u2019t \u201cread\u201d your location\u2014here\u2019s the math behind knowing where you are #Shorts",
+      "description": "Ever wondered how your phone can pinpoint your location in seconds? GPS works by measuring tiny time differences between signals from multiple satellites, then solving the geometry to compute latitude, longitude, and altitude. That same idea\u2014timestamps, distance from signal delay, and solving equations under uncertainty\u2014shows up across networking, distributed systems, and sensor-driven software. If you build apps that rely on location, understanding the fundamentals helps you reason about accuracy, latency, and failure cases. Follow @kreggscode and drop your questions in the comments!",
+      "tags": [
+        "gps",
+        "howgpsworks",
+        "locationtracking",
+        "timeofarrival",
+        "trilateration",
+        "navigation",
+        "computerarchitecture",
+        "networking",
+        "signalprocessing",
+        "distributedsystems",
+        "mathforprogrammers",
+        "latency",
+        "positioning",
+        "sensorfusion",
+        "softwareengineering"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "1625895695602796",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "3557294561086058",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "17910072672514759"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "WJ7WkVPxn0k"
+        }
+      }
+    }
   }
 ]
