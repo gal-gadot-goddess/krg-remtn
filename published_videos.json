@@ -1026,5 +1026,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "How-Computers-Generate-Random-Numbers.mp4",
+    "published_at": "2026-10-03T20:21:55.727721",
+    "metadata": {
+      "title": "How \u201crandom\u201d is generated in computers? (It\u2019s not what you think) #Shorts",
+      "description": "Computers can\u2019t truly \u201cwing it\u201d\u2014so how do they produce random numbers that look unpredictable? In this video, we break down pseudorandom generators, seeding, and why the starting value can make randomness predictable if you\u2019re not careful. Understanding this matters for games, security (like keys and nonces), simulations, and reproducible testing. Follow @kreggscode for more concise CS magic, and drop your question in the comments: should randomness be truly random or \u201cgood enough\u201d?",
+      "tags": [
+        "randomness",
+        "pseudorandom",
+        "true random",
+        "random number generators",
+        "seeding",
+        "cryptography",
+        "security",
+        "entropy",
+        "computer science",
+        "software engineering",
+        "algorithms",
+        "programming",
+        "coding",
+        "systems",
+        "cs foundations"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "2201078953772580",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1603353464668849",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "17993804388048294"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "CSnbFkQSHaU"
+        }
+      }
+    }
   }
 ]
