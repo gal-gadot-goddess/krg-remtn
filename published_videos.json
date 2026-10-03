@@ -980,5 +980,51 @@
         }
       }
     }
+  },
+  {
+    "video_name": "How-Garbage-Collection-Actually-Works-Mark-And-Sweep.mp4",
+    "published_at": "2026-10-03T10:49:01.575291",
+    "metadata": {
+      "title": "Mark & Sweep GC: The Hidden Cleanup That Prevents Memory Meltdowns #Shorts",
+      "description": "Ever wondered what happens when your program \u201cforgets\u201d an object? In mark-and-sweep garbage collection, the runtime marks everything still reachable, then sweeps up the leftovers\u2014so memory doesn\u2019t leak into oblivion. This matters because GC directly impacts latency, throughput, and how you design data structures and object lifetimes. Want the full mental model in minutes? Follow @kreggscode and drop your question: how do you think GC decides what\u2019s \u201calive\u201d?",
+      "tags": [
+        "garbagecollection",
+        "markandsweep",
+        "memorymanagement",
+        "runtime",
+        "programmingconcepts",
+        "computer science",
+        "data structures",
+        "object lifecycle",
+        "performance",
+        "gc",
+        "softwareengineering",
+        "computerarchitecture",
+        "memoryleaks",
+        "interviewquestions"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "1101478799195240",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "927632613457266",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18187183012408727"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "WuUXdAgpUa4"
+        }
+      }
+    }
   }
 ]
