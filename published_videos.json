@@ -1073,5 +1073,51 @@
         }
       }
     }
+  },
+  {
+    "video_name": "How-Diffusion-AI-Draws-From-Pure-Noise.mp4",
+    "published_at": "2026-10-04T11:31:37.604482",
+    "metadata": {
+      "title": "How Diffusion AI Turns Random Noise Into Real Images #Shorts",
+      "description": "What if a neural network could start from pure chaos\u2014and still \u201cfind\u201d a real picture? Diffusion models learn to gradually remove noise, step by step, using a learned probability of what pixels should look like. This matters in computer science because it blends generative modeling, optimization, and probabilistic thinking into one powerful pipeline. Want the intuition behind each denoising step and how it beats simple generators? Follow @kreggscode and drop your questions in the comments!",
+      "tags": [
+        "diffusionai",
+        "generativeai",
+        "machinelearning",
+        "deeplearning",
+        "aigeneration",
+        "computerscience",
+        "neuralnetworks",
+        "probabilisticmodeling",
+        "denoising",
+        "imagegeneration",
+        "stableDiffusion",
+        "mlengineering",
+        "airesearch",
+        "codingconcepts"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "2528186417690333",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1115905917558300",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18163696768425423"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "bi0JyxXG8OQ"
+        }
+      }
+    }
   }
 ]
