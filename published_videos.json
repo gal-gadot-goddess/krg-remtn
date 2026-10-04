@@ -1119,5 +1119,51 @@
         }
       }
     }
+  },
+  {
+    "video_name": "How-Backpropagation-Actually-Trains-Neural-Networks.mp4",
+    "published_at": "2026-10-04T20:40:08.782420",
+    "metadata": {
+      "title": "Backpropagation in 60s: the real \u201ccredit assignment\u201d behind neural nets #Shorts",
+      "description": "Ever wondered how a neural network magically fixes itself after each mistake? Backpropagation is the training engine that computes how much each weight caused the error, then nudges parameters in the right direction using gradients. This matters because it\u2019s the core idea behind training everything from image classifiers to modern LLMs. If you want to build intuition for machine learning and debugging model behavior, this is the mechanism to understand. Follow @kreggscode and drop your questions in the comments\u2014what part of backprop confuses you most?",
+      "tags": [
+        "backpropagation",
+        "neuralnetworks",
+        "machinelearning",
+        "deeplearning",
+        "gradientdescent",
+        "ai",
+        "tensor",
+        "calculus",
+        "lossfunction",
+        "optimization",
+        "aiarchitecture",
+        "coding",
+        "softwareengineering",
+        "shorts"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "2599454343904460",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "28521835367424968",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18114022816833061"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "0UsbQoWGuqU"
+        }
+      }
+    }
   }
 ]
