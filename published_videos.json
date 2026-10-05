@@ -1165,5 +1165,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "How-Compilers-Turn-Code-Into-Machine-Language.mp4",
+    "published_at": "2026-10-05T13:00:59.885838",
+    "metadata": {
+      "title": "From C++ to Machine Code: The Compiler Magic Explained in 60 Seconds #Shorts",
+      "description": "Ever wonder how your human-readable code becomes the machine instructions your CPU actually runs? A compiler doesn\u2019t just \u201ctranslate\u201d\u2014it analyzes, optimizes, and converts code through stages like parsing, semantic checks, and code generation. This is the backbone of performance, portability, and even security, because what the compiler produces can change how fast and how safe your program is. Want the simple mental model that makes compilers click instantly? Follow @kreggscode and drop your questions in the comments\u2014what step do you want explained next?",
+      "tags": [
+        "compilers",
+        "compiler",
+        "machinecode",
+        "programminglanguages",
+        "cpluspluses",
+        "cs101",
+        "softwareengineering",
+        "computerarchitecture",
+        "codegeneration",
+        "optimization",
+        "parsing",
+        "abstraction",
+        "lowlevel",
+        "codingtips",
+        "shorts"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "2056433454980287",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1442545058059762",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18111238103270892"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "LolxrMMbnhs"
+        }
+      }
+    }
   }
 ]
