@@ -1212,5 +1212,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "How-A-Single-Transistor-Stores-Memory.mp4",
+    "published_at": "2026-10-05T23:30:01.661925",
+    "metadata": {
+      "title": "Wait\u2014one transistor can remember? The secret behind computer memory #Shorts",
+      "description": "Memory isn\u2019t just \u201cchips\u201d and \u201cstorage\u201d\u2014it can start with a single transistor making tiny decisions about charge. In this video, you\u2019ll see how a transistor state can act like a 0 or 1, letting hardware store information using physics instead of magic. Understanding this helps you grasp SRAM, DRAM refresh, and why architecture choices affect speed, cost, and reliability. If you want more concise computer science animations, follow @kreggscode and drop your questions in the comments!",
+      "tags": [
+        "kreggscode",
+        "computerscience",
+        "coding",
+        "softwareengineering",
+        "hardware",
+        "transistor",
+        "memory",
+        "sram",
+        "dram",
+        "binary",
+        "electronics",
+        "systemarchitecture",
+        "cpu",
+        "computerengineering",
+        "howitworks"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "1423580876626723",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "1346921634003753",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "18207071515365217"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "iaeng1GYT5A"
+        }
+      }
+    }
   }
 ]
