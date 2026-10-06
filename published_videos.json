@@ -1259,5 +1259,52 @@
         }
       }
     }
+  },
+  {
+    "video_name": "How-AI-Coding-Agents-Work.mp4",
+    "published_at": "2026-10-06T12:25:34.418071",
+    "metadata": {
+      "title": "coding agents explained: how ai finishes your tasks end-to-end #Shorts",
+      "description": "Ever wonder how AI coding agents go from \u201cmake a feature\u201d to actual working code? They plan steps, read your repo, use tools like search/test/build, and iteratively fix issues until the goal is done. This matters because agentic workflows change how developers debug, automate, and ship software\u2014faster and with less busywork. If you want to understand what\u2019s happening under the hood, follow @kreggscode and drop your questions in the comments!",
+      "tags": [
+        "ai",
+        "codingagents",
+        "softwareengineering",
+        "programming",
+        "devtools",
+        "automation",
+        "llm",
+        "tooluse",
+        "github",
+        "debugging",
+        "testing",
+        "systemdesign",
+        "computerScience",
+        "agenticai",
+        "codingworkflow"
+      ],
+      "results": {
+        "facebook": [
+          {
+            "status": "success",
+            "video_id": "4571599393099678",
+            "page_id": "503243842882427"
+          },
+          {
+            "status": "success",
+            "video_id": "28576666731989618",
+            "page_id": "106890212286933"
+          }
+        ],
+        "instagram": {
+          "status": "success",
+          "media_id": "17975029920144246"
+        },
+        "youtube": {
+          "status": "success",
+          "video_id": "xLnbEV8Bqs0"
+        }
+      }
+    }
   }
 ]
