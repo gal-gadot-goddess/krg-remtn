@@ -78,11 +78,8 @@ def fetch_one_video_from_drive(allow_repost=False):
     if available:
         target_file = available[0]
         print(f"[drive] Found {len(available)} new video(s). Selecting: {target_file['name']}")
-    elif allow_repost and files:
-        target_file = files[0]
-        print(f"[drive] All videos published. Reposting: {target_file['name']}")
     else:
-        print("[drive] All videos in Google Drive have already been published")
+        print("[drive] All videos in Google Drive have already been published. No new videos found.")
         return None
 
     os.makedirs(DOWNLOADS_DIR, exist_ok=True)

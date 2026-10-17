@@ -10,6 +10,8 @@ if sys.platform == 'win32':
 
 load_dotenv()
 
+ENABLE_YOUTUBE = os.getenv("ENABLE_YOUTUBE", "false").lower() in ("true", "1", "yes")
+
 from google_drive_fetch import fetch_one_video_from_drive, PUBLISHED_LOG
 from caption_generator import generate_metadata_from_filename
 from upload.upload_facebook import upload_to_facebook_pages
@@ -46,11 +48,7 @@ def run_pipeline():
     fetch_result = fetch_one_video_from_drive(allow_repost=False)
 
     if not fetch_result:
-        print("[pipeline] No new videos found. Attempting repost mode...")
-        fetch_result = fetch_one_video_from_drive(allow_repost=True)
-
-    if not fetch_result:
-        print("[pipeline] No videos available to publish. Pipeline ending gracefully.")
+        print("[pipeline] No new videos found in Google Drive. Pipeline ending gracefully.")
         return
 
     video_path, video_name, file_id = fetch_result
@@ -87,13 +85,17 @@ def run_pipeline():
         print(f"[pipeline] Instagram error: {e}")
         results["instagram"] = {"status": "failed", "error": str(e)}
 
-    # Step 5: Publish to YouTube Shorts
-    print("\nSTEP 3C: Uploading to YouTube Shorts...")
-    try:
-        results["youtube"] = upload_to_youtube(video_path, title, description, tags)
-    except Exception as e:
-        print(f"[pipeline] YouTube error: {e}")
-        results["youtube"] = {"status": "failed", "error": str(e)}
+    # Step 5: Publish to YouTube Shorts (Disabled)
+    if ENABLE_YOUTUBE:
+        print("\nSTEP 3C: Uploading to YouTube Shorts...")
+        try:
+            results["youtube"] = upload_to_youtube(video_path, title, description, tags)
+        except Exception as e:
+            print(f"[pipeline] YouTube error: {e}")
+            results["youtube"] = {"status": "failed", "error": str(e)}
+    else:
+        print("\nSTEP 3C: YouTube upload is disabled. Skipping...")
+        results["youtube"] = {"status": "skipped", "reason": "YouTube upload disabled"}
 
     # Step 6: Log published video
     print("\nSTEP 4: Updating published videos record...")
