@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 POLLINATIONS_API_KEY = os.getenv("POLLINATIONS_API_KEY")
-AI_MODEL = os.getenv("AI_MODEL", "openai")
+AI_MODEL = os.getenv("AI_MODEL", "openai/gpt-5.4-nano")
 
 
 def clean_filename(filename):
